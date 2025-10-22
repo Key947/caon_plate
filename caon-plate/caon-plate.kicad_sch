@@ -8066,7 +8066,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 215.9 146.05 0)
 			(effects
 				(font
@@ -8133,7 +8133,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 114.3 44.45 0)
 			(effects
 				(font
@@ -8200,7 +8200,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 152.4 120.65 0)
 			(effects
 				(font
@@ -8607,7 +8607,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 165.1 44.45 0)
 			(effects
 				(font
@@ -8826,7 +8826,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 152.4 146.05 0)
 			(effects
 				(font
@@ -9300,7 +9300,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 88.9 44.45 0)
 			(effects
 				(font
@@ -9452,7 +9452,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 114.3 69.85 0)
 			(effects
 				(font
@@ -9519,7 +9519,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 50.8 146.05 0)
 			(effects
 				(font
@@ -9586,7 +9586,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 139.7 120.65 0)
 			(effects
 				(font
@@ -9738,7 +9738,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 114.3 95.25 0)
 			(effects
 				(font
@@ -9805,7 +9805,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 76.2 146.05 0)
 			(effects
 				(font
@@ -9957,7 +9957,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 63.5 69.85 0)
 			(effects
 				(font
@@ -10024,7 +10024,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 63.5 44.45 0)
 			(effects
 				(font
@@ -10176,7 +10176,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 165.1 120.65 0)
 			(effects
 				(font
@@ -10818,7 +10818,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 165.1 95.25 0)
 			(effects
 				(font
@@ -10885,7 +10885,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 177.8 146.05 0)
 			(effects
 				(font
@@ -11037,7 +11037,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 88.9 120.65 0)
 			(effects
 				(font
@@ -11104,7 +11104,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 76.2 95.25 0)
 			(effects
 				(font
@@ -11341,7 +11341,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 165.1 69.85 0)
 			(effects
 				(font
@@ -11493,7 +11493,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 203.2 146.05 0)
 			(effects
 				(font
@@ -11965,7 +11965,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 139.7 146.05 0)
 			(effects
 				(font
@@ -12287,7 +12287,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 101.6 69.85 0)
 			(effects
 				(font
@@ -12354,7 +12354,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 50.8 69.85 0)
 			(effects
 				(font
@@ -12421,7 +12421,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 127 44.45 0)
 			(effects
 				(font
@@ -12488,7 +12488,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 215.9 69.85 0)
 			(effects
 				(font
@@ -12810,7 +12810,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 50.8 120.65 0)
 			(effects
 				(font
@@ -12962,7 +12962,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 215.9 120.65 0)
 			(effects
 				(font
@@ -13114,7 +13114,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 228.6 146.05 0)
 			(effects
 				(font
@@ -13248,7 +13248,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 152.4 95.25 0)
 			(effects
 				(font
@@ -13315,7 +13315,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 228.6 69.85 0)
 			(effects
 				(font
@@ -13467,7 +13467,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 114.3 146.05 0)
 			(effects
 				(font
@@ -13919,7 +13919,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 152.4 69.85 0)
 			(effects
 				(font
@@ -13986,7 +13986,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 139.7 95.25 0)
 			(effects
 				(font
@@ -14053,7 +14053,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 203.2 44.45 0)
 			(effects
 				(font
@@ -14120,7 +14120,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 127 69.85 0)
 			(effects
 				(font
@@ -14272,7 +14272,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 88.9 69.85 0)
 			(effects
 				(font
@@ -14339,7 +14339,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 177.8 69.85 0)
 			(effects
 				(font
@@ -14491,7 +14491,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 76.2 120.65 0)
 			(effects
 				(font
@@ -14558,7 +14558,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 63.5 95.25 0)
 			(effects
 				(font
@@ -14625,7 +14625,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 190.5 69.85 0)
 			(effects
 				(font
@@ -14947,7 +14947,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 127 95.25 0)
 			(effects
 				(font
@@ -15269,7 +15269,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 139.7 44.45 0)
 			(effects
 				(font
@@ -15506,7 +15506,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 177.8 95.25 0)
 			(effects
 				(font
@@ -15573,7 +15573,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 190.5 95.25 0)
 			(effects
 				(font
@@ -16141,7 +16141,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 101.6 120.65 0)
 			(effects
 				(font
@@ -16360,7 +16360,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 215.9 44.45 0)
 			(effects
 				(font
@@ -16513,7 +16513,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 76.2 69.85 0)
 			(effects
 				(font
@@ -16692,7 +16692,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 76.2 44.45 0)
 			(effects
 				(font
@@ -17184,7 +17184,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 228.6 44.45 0)
 			(effects
 				(font
@@ -17817,7 +17817,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 101.6 146.05 0)
 			(effects
 				(font
@@ -17969,7 +17969,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 63.5 146.05 0)
 			(effects
 				(font
@@ -18036,7 +18036,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 203.2 69.85 0)
 			(effects
 				(font
@@ -18273,7 +18273,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 177.8 44.45 0)
 			(effects
 				(font
@@ -18340,7 +18340,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 139.7 69.85 0)
 			(effects
 				(font
@@ -18577,7 +18577,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 101.6 95.25 0)
 			(effects
 				(font
@@ -18644,7 +18644,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 203.2 95.25 0)
 			(effects
 				(font
@@ -18796,7 +18796,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 190.5 44.45 0)
 			(effects
 				(font
@@ -18863,7 +18863,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 63.5 120.65 0)
 			(effects
 				(font
@@ -19009,7 +19009,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 127 120.65 0)
 			(effects
 				(font
@@ -19076,7 +19076,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 190.5 146.05 0)
 			(effects
 				(font
@@ -19783,7 +19783,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 88.9 146.05 0)
 			(effects
 				(font
@@ -19994,7 +19994,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 114.3 120.65 0)
 			(effects
 				(font
@@ -20061,7 +20061,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 203.2 120.65 0)
 			(effects
 				(font
@@ -20703,7 +20703,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 50.8 44.45 0)
 			(effects
 				(font
@@ -21050,7 +21050,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 152.4 44.45 0)
 			(effects
 				(font
@@ -21202,7 +21202,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 50.8 95.25 0)
 			(effects
 				(font
@@ -21269,7 +21269,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 127 146.05 0)
 			(effects
 				(font
@@ -21336,7 +21336,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 177.8 120.65 0)
 			(effects
 				(font
@@ -21403,7 +21403,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 165.1 146.05 0)
 			(effects
 				(font
@@ -21640,7 +21640,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 215.9 95.25 0)
 			(effects
 				(font
@@ -21877,7 +21877,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 88.9 95.25 0)
 			(effects
 				(font
@@ -22094,7 +22094,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 101.6 44.45 0)
 			(effects
 				(font
@@ -22246,7 +22246,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Caon_Footprint:SW_PUSH_6mm"
+		(property "Footprint" "Caon_Footprint:Hotswap_MX_Plated_1u"
 			(at 190.5 120.65 0)
 			(effects
 				(font
