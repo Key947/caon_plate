@@ -37,7 +37,7 @@
 		(pad_to_mask_clearance 0)
 		(allow_soldermask_bridges_in_footprints no)
 		(tenting front back)
-		(grid_origin 15.875 111.125)
+		(grid_origin 15.875 15.875)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
@@ -1983,6 +1983,203 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+	)
+	(footprint "ScottoKeebs_Components:OLED_128x32"
+		(layer "F.Cu")
+		(uuid "2fe8c93b-83f1-471c-8a22-760ea87cc545")
+		(at 311.15 47.625 90)
+		(property "Reference" "REF**"
+			(at 7.75 10 90)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "bea2580d-7fa7-4838-9b63-e57254ee20bc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "OLED_128x32"
+			(at 0 0 90)
+			(layer "F.Fab")
+			(uuid "8c9f954a-292f-4b8c-b2ba-7f787275a5ab")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 90)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b15e1053-4f11-43e2-b11c-c6b70f46665c")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 90)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0ce691f6-97f8-4ad6-91f7-8b67a0c94c6d")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(attr through_hole exclude_from_pos_files)
+		(fp_line
+			(start 32.25 -5.75)
+			(end 32.25 6.25)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "6c939a38-f8d7-4c1c-83ce-fd4a93550102")
+		)
+		(fp_line
+			(start 30 -5.75)
+			(end 30 6.25)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "3adce6cc-01ae-4ae2-9329-e531e908ae12")
+		)
+		(fp_line
+			(start 0 -5.75)
+			(end 0 6.25)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "a727ec69-1260-4043-8acf-45b66401219a")
+		)
+		(fp_line
+			(start -5.75 -5.75)
+			(end 32.25 -5.75)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "3226e650-6052-441e-bb4c-f8f84e768ccc")
+		)
+		(fp_line
+			(start -5.75 -5.75)
+			(end -5.75 6.25)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "88f167dc-b0b4-42dd-a176-f3b842ba8163")
+		)
+		(fp_line
+			(start 1.31 -3.53)
+			(end 23.69 -3.53)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "5d4ab237-5fae-49c4-9093-16f615ca15a3")
+		)
+		(fp_line
+			(start 1.31 -3.53)
+			(end 1.31 1.99)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "4e0f90b1-876c-4553-a7e5-50afa1ef1477")
+		)
+		(fp_line
+			(start 23.69 1.99)
+			(end 23.69 -3.53)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "665b665c-7fb8-4f89-94d2-9f68f823781c")
+		)
+		(fp_line
+			(start 1.31 1.99)
+			(end 23.69 1.99)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "3bf01386-5a56-4d15-b007-aebd92560c77")
+		)
+		(fp_line
+			(start 32.25 6.25)
+			(end -5.75 6.25)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "Dwgs.User")
+			(uuid "c35dd2d8-2ee1-4d8f-8892-191df829eb69")
+		)
+		(pad "1" thru_hole rect
+			(at -4.15 4.05 270)
+			(size 1.7 1.7)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "ecae95b9-0352-49fb-8d1f-7431dad0c44b")
+		)
+		(pad "2" thru_hole oval
+			(at -4.15 1.51 270)
+			(size 1.7 1.7)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "404e571e-9f7f-4514-b766-973d182ba436")
+		)
+		(pad "3" thru_hole oval
+			(at -4.15 -1.03 270)
+			(size 1.7 1.7)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "db4438e6-f58f-45d5-8ab3-9d9176d0f504")
+		)
+		(pad "4" thru_hole oval
+			(at -4.15 -3.57 270)
+			(size 1.7 1.7)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(uuid "7d0c2817-e112-40a8-b2c8-de6c8675d2a1")
+		)
+		(embedded_fonts no)
+		(model "${SCOTTOKEEBS_KICAD}/3dmodels/ScottoKeebs_Components.3dshapes/OLED_128x32.step"
+			(offset
+				(xyz 13.4 -0.254 7)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -12278,6 +12475,17 @@
 			)
 		)
 	)
+	(gr_circle
+		(center 311.15 82.55)
+		(end 314.65 82.55)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "04ce64a4-c036-4f41-81e2-99c7e5efa339")
+	)
 	(gr_line
 		(start 320.675 111.125)
 		(end 15.875 111.125)
@@ -12317,6 +12525,17 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "ce6a4857-62bc-4148-ad64-a2fdeda45a44")
+	)
+	(gr_circle
+		(center 311.15 63.5)
+		(end 314.65 63.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "Edge.Cuts")
+		(uuid "f6332ad0-f3cd-4017-bc49-c3a3483ff3b8")
 	)
 	(gr_text "REF**"
 		(at 108.74375 112.7125 0)
