@@ -1,4 +1,4 @@
-27477483283875714
+27479245913686916
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -3038,6 +3038,13 @@ Keyboard Keyswitch Switch Hotswap Socket Plated Relief Cutout Keycap 1.00u
 2
 2
 Caon_Footprint
+OLED_128x32
+
+
+0
+0
+0
+Caon_Footprint
 Resistor_0805
 Resistor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator
 resistor handsolder
@@ -3105,7 +3112,7 @@ SuperMini_NiceNano_platecutout
 Footprint for SuperMini And Nice Nano nRF52840 (nRF52850 pro-micro compatible controller), USB adn Chip facing PCB
 
 0
-6
+0
 0
 Capacitor_SMD
 CP_Elec_3x5.3
