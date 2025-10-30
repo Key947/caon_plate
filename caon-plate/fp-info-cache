@@ -1,4 +1,4 @@
-27479245913686916
+27481007719522171
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2981,6 +2981,13 @@ capacitor handsolder
 0
 2
 2
+Caon_Footprint
+Cutout_MX_1.00u
+MX keyswitch plate cutout 1.00u
+MX Keyboard Keyswitch Switch Plate Cutout Keycap 1.00u
+0
+0
+0
 Caon_Footprint
 D_DO-35_SOD27_P2.54mm_Caon65
 Diode, DO-35_SOD27 series, Axial, Vertical, pin pitch=2.54mm, length*diameter=4*2mm^2, http://www.diodes.com/_files/packages/DO-35.pdf
