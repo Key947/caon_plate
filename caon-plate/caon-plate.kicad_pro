@@ -487,10 +487,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../../../Libraries/Download/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "caon-plate.step",
       "svg": "",
       "vrml": ""
     },
